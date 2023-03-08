@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thenens
 - 👀 I’m interested in UIUX & Web Designer
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me lukmanenen@gmail.com
+- 📫 How to reach me lukmanul5hakim@gmail.com
 
 <!---
 thenens/thenens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
